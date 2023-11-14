@@ -1,0 +1,7 @@
+led_display.c:35:6:turn_off	8	static
+led_display.c:42:6:display_value_7seg	24	static
+led_display.c:69:6:blinking_single_led	16	static
+led_display.c:104:6:display_traffic_light	8	static
+led_display.c:140:6:start_mode_1	8	static
+led_display.c:151:6:run_traffic_light	8	static
+led_display.c:197:6:display_mode	16	static

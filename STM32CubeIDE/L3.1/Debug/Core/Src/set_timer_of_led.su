@@ -1,0 +1,2 @@
+set_timer_of_led.c:17:6:set_timer_of_led	16	static
+set_timer_of_led.c:32:5:get_timer_of_led	16	static
